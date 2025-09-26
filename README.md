@@ -6,7 +6,6 @@
 - Marvel and Disney dominate with **5 out of the top 10 movies** (*Endgame, Infinity War, No Way Home, The Avengers, Lion King*).  
 - James Cameron (*Avatar* series) remains a global box office titan.  
 - **Key takeaway**: Strong franchises, sequels, and cinematic universes consistently secure multi-billion revenues.  
-![Top 10 Highest-Grossing Movies](graphs and plots/top10_movies.png)
 ---
 
 ## 2. 💰 Domestic vs. Foreign Revenue Trends  
